@@ -1,0 +1,5 @@
+scikit-image
+scikit-learn
+requests
+numpy
+jupyter
