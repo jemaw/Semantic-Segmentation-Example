@@ -1,0 +1,8 @@
+images/
+masks/
+output/
+__pycache__/
+.ipynb_checkpoints/
+.tags
+stage1_train.zip
+progress.png
