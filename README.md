@@ -4,10 +4,9 @@ It uses the dataset of the [Kaggle Data Science Bowl 2018](https://data.broadins
 
 ## Usage
 
-1) Install normal packages:
-```
-pip install --user -r requirements.txt
-```
+1) Install normal packages: `pip install --user -r requirements.txt`
+
 2) Install [Tensorflow](https://www.tensorflow.org/install/) or [Pytorch](https://pytorch.org/)
-3) Start jupyter notebook and use `segment_tf` or `segment_pytorch`
+3) Download and prepare data: `python data.py`
+4) Start jupyter notebook and use `segment_tf` or `segment_pytorch`
 
